@@ -6,5 +6,5 @@
  <h1> usege </h1>
  <ul>
   <li>Play with playground and use IBDesignable PlayPauseView</li>
-  <li>animate() forks like toggle</li>
+  <li>animate() works like toggle</li>
  </ul>
