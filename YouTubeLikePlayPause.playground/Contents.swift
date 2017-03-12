@@ -174,5 +174,3 @@ playPauseView.center = view.center
 view.addSubview(playPauseView)
 
 PlaygroundPage.current.liveView = view
-
-
