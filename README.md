@@ -1,9 +1,9 @@
-# <h1 align="center">Animate play and pause smoothly</h1>
+<h1 align="center">Animate play and pause smoothly</h1>
 <p align="center">
   <img src="demo.gif"/>
 </p>
  
- # <h1 align="center">YouTube like play-pause</h1>
+<h1 align="center">YouTube like play-pause</h1>
 <p align="center">
   <img src="demo2.gif"/>
 </p>
